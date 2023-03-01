@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shreyas-544
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in Machine learnning,IOT,Blockchain
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (+918105746415)
 
